@@ -25,4 +25,43 @@ REFERENCE WAVEFORM:
 
 ACTUAL SCHEMATIC:
 
+![domino_circuit](https://user-images.githubusercontent.com/67039315/155269926-2729ec79-521c-4888-922a-a854247589bc.jpeg)
+
+ACTUAL SYMBOL:
+
+![domino_symbol](https://user-images.githubusercontent.com/67039315/155270012-6e3e7972-766b-4203-a8a8-0fdb3ace1d8f.jpeg)
+
+TESTBENCH SCHEMATIC:
+
+![domino_TB](https://user-images.githubusercontent.com/67039315/155270073-cb0d4bea-27cf-45a1-ae5a-7d8ee522b90a.jpeg)
+
+PARAMETERS FOR INPUT PIN CLK:
+
+![parameter clk](https://user-images.githubusercontent.com/67039315/155271219-d6a04303-b348-4a6b-b408-90a1fc5a48b8.PNG)
+
+PARAMETERS FOR INPUT VIN:
+
+![parameter vin](https://user-images.githubusercontent.com/67039315/155271246-ec4e9752-5af2-4a7f-8484-04549f87dffa.PNG)
+
+TRANSIENT ANALYSIS:
+
+![tran](https://user-images.githubusercontent.com/67039315/155271420-aee7be65-cae2-4952-9dd1-ab67beccef2f.PNG)
+
+PRIMEWAVE SETUP:
+
+![primewave setup](https://user-images.githubusercontent.com/67039315/155271472-0563ca07-1832-4259-9c8f-2c0934ee2449.PNG)
+
+NETLIST:
+
+![image](https://user-images.githubusercontent.com/67039315/155271921-88c7b909-809c-48a9-bd44-a9112af604f2.png)
+![image](https://user-images.githubusercontent.com/67039315/155271963-c9660cd3-47c2-4c77-b45b-8a83c76164cc.png)
+![image](https://user-images.githubusercontent.com/67039315/155272006-2e56ccec-316e-4a1c-b802-72ee10e0ee10.png)
+
+WAVEFORM:
+
+![waveform](https://user-images.githubusercontent.com/67039315/155272080-aa8c00e3-389e-4b80-b6a6-fda778770cca.PNG)
+
+CONCLUSION:
+
+
 
