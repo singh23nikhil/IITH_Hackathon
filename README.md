@@ -63,5 +63,4 @@ WAVEFORM:
 
 CONCLUSION:
 
-
-
+From the wavefor mwe can observe that the domino schmitt trigger is exhibiting the transient analysis similar to that of cmos schmitt trigger.
