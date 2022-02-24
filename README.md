@@ -1,11 +1,11 @@
 # IITH_Hackathon
 
-                  Design of Schmitt Trigger Using Domino Logic in 28nm
+#                  Design of Schmitt Trigger Using Domino Logic in 28nm
 
 This repository consists of the project which was designed and simulated using synopsys custom compiler
 
 
-ABSTRACT:
+##ABSTRACT:
 
 Hysteresis, Noise margin and Power consumption are the primary parameters that determine how robust a Schmitt trigger is. These are essentially a bi-stable multi vibrator that produces a stable output i.e. logic 1 or logic 0 whenever a noisy input is being fed into it. Due to this property, it finds its application in both analog as well as digital domain. When these circuits are formed using the dynamic logic, they exhibit better hysteresis, higher noise margin and reduced power consumption as compare to the ones formed by the static CMOS. Also the speed of operation is more as compared to the static counterparts. In this project we design Schmitt trigger using domino logic which aims at enhancing the hysteresis as well as noise margin. The analysis and simulations of the circuits are performed using industrystandard full-suite Synopsys® tools using a 28 nm technology library.
 
