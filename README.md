@@ -71,8 +71,11 @@ Nikhil Singh, VIT Chennai
 ## ACKWOLEDGEMENT:
 
 Kunal Ghosh, Co-founder, VSD Corp. Pvt Ltd.
+
 Chinmay Panda, IIT Hyderabad
-Synopsis Team/Company
+
+Synopsis Company
+
 IIT Hyderabad
 
 ## REFERENCES:
