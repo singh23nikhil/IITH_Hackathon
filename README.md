@@ -57,13 +57,23 @@ Static CMOS circuits are slower in operation, consume more area and have short c
 ![image](https://user-images.githubusercontent.com/67039315/155271963-c9660cd3-47c2-4c77-b45b-8a83c76164cc.png)
 ![image](https://user-images.githubusercontent.com/67039315/155272006-2e56ccec-316e-4a1c-b802-72ee10e0ee10.png)
 
-## WAVEFORM:
+## WAVEFORMS:
 
 ![waveform](https://user-images.githubusercontent.com/67039315/155272080-aa8c00e3-389e-4b80-b6a6-fda778770cca.PNG)
+Transient analysis of Domino Schmitt trigger
+
+![cmos_st_waveform](https://user-images.githubusercontent.com/67039315/155841612-58d5290e-0f7f-4d91-aeb6-24264a8b156d.PNG)
+Transient analysis of CMOS Schmitt trigger
+
+## COMPARISON OF AVERAGE POWER AND PROPAGATION DELAY WITH CMOS SCHMITT TRIGGER:
+
+        **Schmitt trigger**	         **Average Power (µW)**   **Propagation Delay (ps)**
+        CMOS Schmitt Trigger	             10.68	                   180.3
+        Domino Schmitt Trigger               7.09	                   189.0
 
 ## CONCLUSION:
 
-From the waveform we can observe that the domino schmitt trigger is exhibiting the transient analysis similar to that of cmos schmitt trigger. Due to the inverter present at output we are getting a inverted waveform. Hence the schmitt trigger can be used is various applications for eg. ADC, Comparators etc.
+From the waveform we can observe that the domino schmitt trigger is 33.6% better in terms of average power dissipation while the propagation delay is almost same to that of cmos schmitt trigger. Also the transient analysis similar to that of cmos schmitt trigger. Due to the inverter present at output we are getting a inverted waveform. Hence the schmitt trigger can be used is various applications for eg. ADC, Comparators etc.
 
 ## AUTHOR:
 Nikhil Singh, VIT Chennai
