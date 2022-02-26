@@ -63,7 +63,7 @@ Static CMOS circuits are slower in operation, consume more area and have short c
 
 ## CONCLUSION:
 
-From the wavefor mwe can observe that the domino schmitt trigger is exhibiting the transient analysis similar to that of cmos schmitt trigger.
+From the waveform we can observe that the domino schmitt trigger is exhibiting the transient analysis similar to that of cmos schmitt trigger. Due to the inverter present at output we are getting a inverted waveform. Hence the schmitt trigger can be used is various applications for eg. ADC, Comparators etc.
 
 ## AUTHOR:
 Nikhil Singh, VIT Chennai
