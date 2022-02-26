@@ -69,9 +69,8 @@ Transient analysis of CMOS Schmitt trigger
 
 **Schmitt trigger**             **Average Power (µW)**          **Propagation Delay (ps)**
 
-CMOS Schmitt Trigger                    10.68                           180.3
-
-Domino Schmitt Trigger                  7.09                            189.0
+-CMOS Schmitt Trigger                    10.68                           180.3
+-Domino Schmitt Trigger                  7.09                            189.0
 
 ## CONCLUSION:
 
