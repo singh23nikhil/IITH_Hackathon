@@ -68,6 +68,13 @@ From the waveform we can observe that the domino schmitt trigger is exhibiting t
 ## AUTHOR:
 Nikhil Singh, VIT Chennai
 
+## ACKWOLEDGEMENT:
+
+Kunal Ghosh, Co-founder, VSD Corp. Pvt Ltd.
+Chinmay Panda, IIT Hyderabad
+Synopsis Team/Company
+IIT Hyderabad
+
 ## REFERENCES:
 [1] Ramakrishna, Balaji & Madhusudhan, S. & Nikshep, B. & Naveen, B. & Teerthaprasad, H.. (2020). Power and delay optimization of domino Schmitt trigger configurations with enhanced hysteresis voltage. Analog Integrated Circuits and Signal Processing. 102. 10.1007/s10470-019-01541-8.
 
