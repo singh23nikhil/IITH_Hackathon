@@ -70,5 +70,7 @@ Nikhil Singh, VIT Chennai
 
 ## REFERENCES:
 [1] Ramakrishna, Balaji & Madhusudhan, S. & Nikshep, B. & Naveen, B. & Teerthaprasad, H.. (2020). Power and delay optimization of domino Schmitt trigger configurations with enhanced hysteresis voltage. Analog Integrated Circuits and Signal Processing. 102. 10.1007/s10470-019-01541-8.
+
 [2] Bhaaskaran, V s kanchana & Angeline, Anita. (2019). Design Impacts of Delay Invariant High Speed Clock Delayed Dual Keeper Domino Circuit. IET Circuits, Devices & Systems. 13. 10.1049/iet-cds.2018.5410.
+
 [3] https://www.iosrjournals.org/iosr-jvlsi/papers/vol11- issue3/A1103010117.pdf
