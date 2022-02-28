@@ -65,6 +65,12 @@ Transient analysis of Domino Schmitt trigger
 ![cmos_st_waveform](https://user-images.githubusercontent.com/67039315/155841612-58d5290e-0f7f-4d91-aeb6-24264a8b156d.PNG)
 Transient analysis of CMOS Schmitt trigger
 
+![domino_st_response](https://user-images.githubusercontent.com/67039315/155981260-a555bc28-8143-40e6-9e34-506d89ffe8e8.PNG)
+Response of domino Schmitt trigger for sinusoidal input
+
+![cmos_st_response](https://user-images.githubusercontent.com/67039315/155981379-430471b4-27ee-4dc8-acd5-0d0af75f89b6.PNG)
+Response of cmos Schmitt trigger for sinusoidal input
+
 ## COMPARISON OF AVERAGE POWER AND PROPAGATION DELAY WITH CMOS SCHMITT TRIGGER:
 
 ![image](https://user-images.githubusercontent.com/67039315/155967014-20236246-5365-4707-b920-6bcc790c5805.png)
